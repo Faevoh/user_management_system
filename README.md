@@ -1,5 +1,5 @@
 # User Management
-Developing a simple CRUD (create, read, update and delete) API for managing "Users" using Javascript, Nodejs, Expressjs and MongoDb for database.
+Building a simple CRUD (create, read, update and delete) API for managing "Users" using Javascript, Nodejs, Expressjs and MongoDb for database.
 
 ## Table of Contents
 - [Project setup and Installation](#installation)
@@ -42,4 +42,4 @@ npm run dev
 
 ## Documentation
 - This is a live url of the project: [user_management_api](https://user-management-system-1r627f916-faevohs-projects.vercel.app/)
-- This is a link to the Postman Documentation of the project: [Postman Documentation]()
+- This is a link to the Postman Documentation of the project: [Postman Documentation](https://documenter.getpostman.com/view/24128426/2sA3sAhnkJ)
