@@ -41,5 +41,5 @@ npm run dev
 - Deleting user's information with user's name
 
 ## Documentation
-- This is a live url of the project: 
-- This is a link to the Postman Documentation of the project: 
+- This is a live url of the project: [user_management_api]()
+- This is a link to the Postman Documentation of the project: [Postman Documentation]()
