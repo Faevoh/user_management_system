@@ -5,7 +5,7 @@ const app = require("./app");
 dotenv.config();
 
 const port  = process.env.PORT;
-const database = process.env.DB;
+const database = process.env.DBS;
 
 const mongooseConnection = async() => {
     try {
